@@ -1,10 +1,10 @@
 #!/bin/bash
 
-auth_email="lpwoodhouse@gmail.com" # The email used to login 'https://dash.cloudflare.com'
+auth_email="<EMAIL>" # The email used to login 'https://dash.cloudflare.com'
 auth_method="global" # Set to "global" for Global API Key or "token" for Scoped API Token
-auth_key="6228478a2a1fb9ce09407e693b0bd979ac6f7" # Your API Token or Global API Key
-zone_identifier="e010c68bd727a67de05d9be4cdbcb838" # Can be found in the "Overview" tab of your domain
-record_name="vpn.leewoodhouse.com" # Which record you want to be synced
+auth_key="<AUTH_KEY>" # Your API Token or Global API Key
+zone_identifier="<ZONE_ID>" # Can be found in the "Overview" tab of your domain
+record_name="<SUBDOMAIN.example.com>" # Which record you want to be synced
 proxy=false # Set the proxy to true or false
 
 ###########################################
