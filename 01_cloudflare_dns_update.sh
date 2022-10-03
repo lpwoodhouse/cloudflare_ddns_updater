@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for f in *.leewoodhouse.com.sh; do
+for f in *.<DOMAIN>.sh; do
   if [ "$f" == "$0" ]; then
     continue
   else
