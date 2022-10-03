@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for f in *.<DOMAIN>.sh; do
+for f in *.example.com.sh; do
   if [ "$f" == "$0" ]; then
     continue
   else
