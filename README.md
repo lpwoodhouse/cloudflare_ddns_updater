@@ -7,7 +7,7 @@ These scripts are used to update the Dynamic DNS (DDNS) service base on Cloudfla
 ## Installation
 
 ```shell
-git clone https://gitlab.leewoodhouse.com/homelab/synology_ds/cloudflare-ddns-updater.git
+git clone https://github.com/lpwoodhouse/cloudflare_ddns_updater.git
 ```
 
 ## Usage
