@@ -1,4 +1,7 @@
 # Cloudflare DDNS Update Scripts
+![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/cloudflare_ddns_updater)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/cloudflare_ddns_updater)
+![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/cloudflare_ddns_updater)
 
 ## Purpose
 
@@ -25,4 +28,5 @@ All other scripts will be processed in turn and new scripts for additional sub-d
 These scripts were developed with reference to the script [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater).
 
 ## License
-[MIT](LICENSE)
+
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/playbook_cloudflare_ddns_updater)](LICENSE)
