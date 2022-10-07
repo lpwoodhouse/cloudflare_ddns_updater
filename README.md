@@ -29,4 +29,4 @@ These scripts were developed with reference to the script [K0p1-Git/cloudflare-d
 
 ## License
 
-[![GitHub](https://img.shields.io/github/license/lpwoodhouse/playbook_cloudflare_ddns_updater)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/cloudflare_ddns_updater)](LICENSE)
