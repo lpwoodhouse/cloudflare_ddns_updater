@@ -1,5 +1,5 @@
 # Cloudflare DDNS Update Scripts
-[![Cloudflare](https://img.shields.io/badge/-Cloudflare-E34F26?style=flat-square&logo=cloudflare&logoColor=white)](https://dash.cloudflare.com/)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-E34F26?style=flat&logo=cloudflare&logoColor=white)](https://dash.cloudflare.com/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/cloudflare_ddns_updater)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/cloudflare_ddns_updater)
 ![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/cloudflare_ddns_updater)
